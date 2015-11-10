@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447073396 source:g:\codeblocks\09-11_nww_i_nwd\main.cpp
+	<iostream>
+	<stdio.h>
+
